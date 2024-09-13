@@ -14,7 +14,7 @@ Finally, **ergonomic analyses** were carried out using the Jack software.
 ## Table of Contents
 1. [Introduction and Requirements](#introduction-and-requirements)
 2. [Modelling](#modelling)
-3. [Finite Element Analysis (FEM)](#finite-element-analysis-fem)
+3. [FEM Analysis (FEM)](#finite-element-analysis-fem)
 4. [Kinematic Simulations](#kinematic-simulations)
 5. [Ergonomics](#ergonomics)
 6. [Conclusions](#conclusions)
@@ -121,7 +121,7 @@ https://github.com/user-attachments/assets/69a11f03-2794-437f-baa0-9c7851dea66f
 </p>
 
 
-## Finite Element Analysis (FEM)
+## FEM Analysis
 
 FEM analyses were conducted to simulate the structural behavior of the system under maximum load conditions. Key findings include:
 
