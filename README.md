@@ -74,7 +74,6 @@ Modelled parts:
 ![image](https://github.com/user-attachments/assets/785ed5f3-ce3b-4d30-9c55-55cea844d0d4)
 
 
-
 ### Modeling Approach
 
 A bottom-up approach was used to model and assemble the components. Specific attention was given to:
@@ -83,8 +82,6 @@ A bottom-up approach was used to model and assemble the components. Specific att
 
 
 https://github.com/user-attachments/assets/69a11f03-2794-437f-baa0-9c7851dea66f
-
-
 
 
 - **Anti-Tipping Measures:** Placement of two 1500 kg counterweights to prevent tipping, especially when the robot is fully extended.
@@ -97,9 +94,11 @@ https://github.com/user-attachments/assets/69a11f03-2794-437f-baa0-9c7851dea66f
 
 ![image](https://github.com/user-attachments/assets/33c320eb-fad4-4c8a-b83f-96a56bfd2bc9)
 
-### Complete system
+### Robot-Elevator-Omni system
 ![image](https://github.com/user-attachments/assets/809a3a04-7d35-4253-aa97-e0c2867b36a6)
 
+### Walkway, ladder, and toolbox
+![image](https://github.com/user-attachments/assets/80eade91-c022-4a3d-b6f3-3ecf4703928a)
 
 
 
