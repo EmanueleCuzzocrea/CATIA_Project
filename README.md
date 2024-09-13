@@ -98,8 +98,7 @@ https://github.com/user-attachments/assets/69a11f03-2794-437f-baa0-9c7851dea66f
 ![image](https://github.com/user-attachments/assets/809a3a04-7d35-4253-aa97-e0c2867b36a6)
 
 ### Walkway, ladder, and toolbox
-![image](https://github.com/user-attachments/assets/80eade91-c022-4a3d-b6f3-3ecf4703928a)
-
+<img width="381" alt="walkway" src="https://github.com/user-attachments/assets/6e2a6261-029e-486f-9f98-1a09551a159c">
 
 
 ## Finite Element Analysis (FEM)
