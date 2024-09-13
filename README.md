@@ -39,22 +39,55 @@ The main objective of this project is to design a virtual prototype of an auxili
 - Avoid introducing tracks inside or outside the RH Facility.
 - Minimize costs by renting standard products without the need for damage or modification.
 
+![image](https://github.com/user-attachments/assets/c9735269-3060-4aa5-8beb-9f9447a68a47)
+
+![image](https://github.com/user-attachments/assets/507d115b-ec13-443e-bebb-169f8730479d)
+
+
+
 ## Modeling
 
 The proposed system comprises three main components:
 
 1. **Robot Manipulator:** A 6-degree-of-freedom robot capable of reaching all modules. Modeled on the KUKA KR 340 R3330, which can lift up to 340 kg, slightly more than required.
-  
+
+![image](https://github.com/user-attachments/assets/1980f691-06cd-47b4-86e0-bf2fc89da1d3)
+
+![image](https://github.com/user-attachments/assets/b44047bf-eb05-4daf-8815-5198e87aaf31)
+
+
 2. **Elevator:** Capable of lifting the robot and supporting its weight. Modeled on the Advance Lifts Model P-8036 Scissors Lift, which can handle up to 3628 kg with a platform size of 1219.2 x 1828.8 mm.
 
+![image](https://github.com/user-attachments/assets/aba7ab41-85de-4c2b-9606-abb48302b1fa)
+
+![image](https://github.com/user-attachments/assets/ea8c42a9-0baf-42b5-9fa4-5d916c72d5cc)
+
+
 3. **Cart on Wheels:** Supports the combined weight of the elevator and robot, modeled on the basis of the Morello Omni, which is omnidirectional and customizable with a maximum load capacity of 10,000 kg.
+
+![image](https://github.com/user-attachments/assets/37378fbe-138f-49d4-83b3-50caf9393018)
+
+![image](https://github.com/user-attachments/assets/c44a74e5-268d-4a6e-8b16-d5ac6b6f2b5e)
+
 
 ### Modeling Approach
 
 A bottom-up approach was used to model and assemble the components. Specific attention was given to:
 
+- **Realistic modelling:** Every component of the system was modelled while considering all its degrees of freedom.
+
+
+https://github.com/user-attachments/assets/69a11f03-2794-437f-baa0-9c7851dea66f
+
+
+
+
 - **Anti-Tipping Measures:** Placement of two 1500 kg counterweights to prevent tipping, especially when the robot is fully extended.
 - **End Effector:** Fitted with pneumatic suction cups tailored to handle the various shapes and sizes of the First Wall modules.
+
+
+
+
 
 ## Finite Element Analysis (FEM)
 
