@@ -118,7 +118,8 @@ This confirmed the system's capability to address all proximity requirements wit
 
 ### Reaching the Outboard First Wall modules
 
-https://github.com/user-attachments/assets/6c8facdf-dcfd-4598-b572-64f3afa939be
+https://github.com/user-attachments/assets/82420123-4555-4154-9b7c-5b4642edca78
+
 
 ### Reaching the Outboard First Wall modules
 
