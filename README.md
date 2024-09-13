@@ -89,7 +89,8 @@ https://github.com/user-attachments/assets/69a11f03-2794-437f-baa0-9c7851dea66f
 
 - **Anti-Tipping Measures:** Placement of two 1500 kg counterweights to prevent tipping, especially when the robot is fully extended.
 
-![image](https://github.com/user-attachments/assets/eeaab0a1-4c14-4971-ab7e-d1930312c546)
+![image](https://github.com/user-attachments/assets/d2d07126-1f7b-4ae9-9ba2-45a4a1548c13)
+
 
 
 - **End Effector:** Fitted with pneumatic suction cups tailored to handle the various shapes and sizes of the First Wall modules.
