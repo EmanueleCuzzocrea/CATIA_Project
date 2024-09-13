@@ -95,36 +95,30 @@ A bottom-up approach was used to model and assemble the components. Specific att
 
 - **Realistic modelling:** Every component of the system was modelled while considering all its degrees of freedom.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/69a11f03-2794-437f-baa0-9c7851dea66f" alt="Pseudocode" width="400"/>
-</p>
+https://github.com/user-attachments/assets/69a11f03-2794-437f-baa0-9c7851dea66f
 
 
 - **Anti-Tipping Measures:** Placement of two 1500 kg counterweights to prevent tipping, especially when the robot is fully extended.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e1390ad-d564-4294-ad82-e94da16edb2d" alt="Pseudocode" width="400"/>
+  <img src="https://github.com/user-attachments/assets/1759c648-b508-414e-bcd9-0caedefaae62" alt="Pseudocode" width="400"/>
 </p>
-<img width="286" alt="zavorre" src="https://github.com/user-attachments/assets/1759c648-b508-414e-bcd9-0caedefaae62">
 
 
 - **End Effector:** Fitted with pneumatic suction cups tailored to handle the various shapes and sizes of the First Wall modules.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e1390ad-d564-4294-ad82-e94da16edb2d" alt="Pseudocode" width="400"/>
+  <img src="https://github.com/user-attachments/assets/bb6d0ec6-4b17-40f6-89b0-c7eab4e9b0f2" alt="Pseudocode" width="400"/>
 </p>
-<img width="286" alt="end-effector" src="https://github.com/user-attachments/assets/bb6d0ec6-4b17-40f6-89b0-c7eab4e9b0f2">
 
 ### Robot-Elevator-Omni system
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e1390ad-d564-4294-ad82-e94da16edb2d" alt="Pseudocode" width="400"/>
+  <img src="https://github.com/user-attachments/assets/afcf64d1-d276-49fb-8e53-f2ee411738e8" alt="Pseudocode" width="400"/>
 </p>
-<img width="327" alt="robot-el-om" src="https://github.com/user-attachments/assets/afcf64d1-d276-49fb-8e53-f2ee411738e8">
 
 
 ### Walkway, ladder, and toolbox
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e1390ad-d564-4294-ad82-e94da16edb2d" alt="Pseudocode" width="400"/>
+  <img src="https://github.com/user-attachments/assets/6e2a6261-029e-486f-9f98-1a09551a159c" alt="Pseudocode" width="400"/>
 </p>
-<img width="381" alt="walkway" src="https://github.com/user-attachments/assets/6e2a6261-029e-486f-9f98-1a09551a159c">
 
 
 ## Finite Element Analysis (FEM)
