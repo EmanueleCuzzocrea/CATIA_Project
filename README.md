@@ -14,7 +14,7 @@ Finally, **ergonomic analyses** were carried out using the Jack software.
 ## Table of Contents
 1. [Introduction and Requirements](#introduction-and-requirements)
 2. [Modelling](#modelling)
-3. [FEM Analysis (FEM)](#finite-element-analysis-fem)
+3. [FEM Analysis](#finite-element-analysis-fem)
 4. [Kinematic Simulations](#kinematic-simulations)
 5. [Ergonomics](#ergonomics)
 6. [Conclusions](#conclusions)
