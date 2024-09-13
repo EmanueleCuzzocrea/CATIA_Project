@@ -6,8 +6,7 @@ of First Wall modules. The complete project assignment can be find in the Projec
 Specifically, the proposal includes using a **KUKA KR 340 R3330 manipulator** for the movement of modules, positioned above a scissor lift,
 the **P-8036 Scissors Lift by Advance Lifts**, in order to reach properly also the modules on the top. To make the entire structure mobile, we propose to put the system on an omnidirectional cart, namely a **Morello Omni**.
 Additionally, a walkway, a ladder, and a toolbox have been designed to allow the operator ergonomic access to the RH Facility and easy access to all modules.
-To verify the correct functioning of the system, **FEM analyses** were conducted to simulate the behavior of the structure under maximum load. Initially,
-individual elements were analyzed, followed by the complete structure. Subsequently, **kinematic simulations** were performed, demonstrating how the
+To verify the correct functioning of the system, **FEM analyses** were conducted to simulate the behavior of the structure under maximum load. The individual elements were analyzed, as well as the complete structure. Subsequently, **kinematic simulations** were performed, demonstrating how the
 proposed solution allows access to all modules while avoiding singularity configurations of the manipulator.
 Finally, **ergonomic analyses** were carried out using the Jack software.
 
