@@ -123,10 +123,11 @@ https://github.com/user-attachments/assets/69a11f03-2794-437f-baa0-9c7851dea66f
 
 ## FEM Analysis
 
-FEM analyses were conducted to simulate the structural behavior of the system under maximum load conditions. Key findings include:
+FEM analyses were conducted to simulate the structural behavior of the system under maximum load conditions.
+The individual elements were analyzed, as well as the complete structure. Key findings include:
 
 - **Material:** Steel with a yield strength of 250 MPa and a safety factor of 1.5, resulting in an allowable stress of 167 MPa.
-- **Von Mises Stress Analysis:** Conducted for the robot, elevator, and cart to ensure stresses remain within permissible limits.
+- **Von Mises Stress Analysis:** To ensure stresses remain within permissible limits.
 - **Displacements:** Maximum displacements were observed at the robot's end effector and the upper part of the elevator, but were within acceptable limits.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/36df0155-fedf-403a-9281-00680a1f228d" alt="Pseudocode" width="400"/>
