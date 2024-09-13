@@ -136,8 +136,8 @@ The individual elements were analyzed, as well as the complete structure. Key fi
 
 ## Kinematic Simulations
 
-The Robot-Elevator-Omni system's kinematic simulations demonstrated its ability to reach all modules, including those theoretically reachable from the opposite side of the RH Facility.
-This confirmed the system's capability to address all proximity requirements without critical issues.
+The Robot-Elevator-Omni system's kinematic simulations demonstrated its ability to reach all modules, including some theoretically reachable from the opposite side of the RH Facility.
+This confirmed the system's capability to address all requirements without critical issues.
 
 ### Reaching the Outboard First Wall modules
 
