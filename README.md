@@ -21,7 +21,7 @@ Finally, **ergonomic analyses** were carried out using the Jack software.
 
 ## Introduction and Requirements
 
-The main objective of this project is to design a virtual prototype of an auxiliary equipment system that meets the following functional requirements:
+The main objective of this project is to design a virtual prototype of an auxiliary equipment system designed to assist RH Facility operators in handling mockups of First Wall modules. The project must meet the following functional requirements:
 
 - Allow operators to reach all modules ergonomically.
 - Enable visual inspection of the modules and the divertor by operators.
