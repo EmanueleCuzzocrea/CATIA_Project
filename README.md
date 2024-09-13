@@ -86,16 +86,15 @@ https://github.com/user-attachments/assets/69a11f03-2794-437f-baa0-9c7851dea66f
 
 - **Anti-Tipping Measures:** Placement of two 1500 kg counterweights to prevent tipping, especially when the robot is fully extended.
 
-![image](https://github.com/user-attachments/assets/d2d07126-1f7b-4ae9-9ba2-45a4a1548c13)
-
+<img width="286" alt="zavorre" src="https://github.com/user-attachments/assets/1759c648-b508-414e-bcd9-0caedefaae62">
 
 
 - **End Effector:** Fitted with pneumatic suction cups tailored to handle the various shapes and sizes of the First Wall modules.
-
-![image](https://github.com/user-attachments/assets/33c320eb-fad4-4c8a-b83f-96a56bfd2bc9)
+<img width="286" alt="end-effector" src="https://github.com/user-attachments/assets/bb6d0ec6-4b17-40f6-89b0-c7eab4e9b0f2">
 
 ### Robot-Elevator-Omni system
-![image](https://github.com/user-attachments/assets/809a3a04-7d35-4253-aa97-e0c2867b36a6)
+<img width="327" alt="robot-el-om" src="https://github.com/user-attachments/assets/afcf64d1-d276-49fb-8e53-f2ee411738e8">
+
 
 ### Walkway, ladder, and toolbox
 <img width="381" alt="walkway" src="https://github.com/user-attachments/assets/6e2a6261-029e-486f-9f98-1a09551a159c">
@@ -108,6 +107,9 @@ FEM analyses were conducted to simulate the structural behavior of the system un
 - **Material:** Steel with a yield strength of 250 MPa and a safety factor of 1.5, resulting in an allowable stress of 167 MPa.
 - **Von Mises Stress Analysis:** Conducted for the robot, elevator, and cart to ensure stresses remain within permissible limits.
 - **Displacements:** Maximum displacements were observed at the robot's end effector and the upper part of the elevator, but were within acceptable limits.
+
+<img width="266" alt="fem" src="https://github.com/user-attachments/assets/36df0155-fedf-403a-9281-00680a1f228d">
+
 
 ## Kinematic Simulations
 
