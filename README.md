@@ -116,6 +116,18 @@ FEM analyses were conducted to simulate the structural behavior of the system un
 The Robot-Elevator-Omni system's kinematic simulations demonstrated its ability to reach all modules, including those theoretically reachable from the opposite side of the RH Facility.
 This confirmed the system's capability to address all proximity requirements without critical issues.
 
+### Reaching the Outboard First Wall modules
+
+https://github.com/user-attachments/assets/6c8facdf-dcfd-4598-b572-64f3afa939be
+
+### Reaching the Outboard First Wall modules
+
+
+https://github.com/user-attachments/assets/a99356e9-dd80-45ab-8712-3cb50c04e2f1
+
+
+
+
 ## Ergonomics
 
 Ergonomic analyses were performed using Jack software, considering a 50th percentile male (175 cm height, 80 kg weight).
@@ -125,6 +137,15 @@ Two critical positions were analyzed: reaching the highest and lowest First Wall
 - **Low Module Assembly:** 70% of the population could perform the task with a maximum L4/L5 load of 2419 N.
 
 Both scenarios were well below the critical value of 3400 N, indicating ergonomic safety.
+
+### Assembly of the highest module
+
+https://github.com/user-attachments/assets/5153eb2f-c06c-4937-942b-21ac58786129
+
+### Assembly of the lowest module
+
+https://github.com/user-attachments/assets/63562921-bda9-480b-934b-824122af651d
+
 
 ## Conclusions
 
