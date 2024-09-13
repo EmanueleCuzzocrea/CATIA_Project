@@ -171,7 +171,7 @@ https://github.com/user-attachments/assets/63562921-bda9-480b-934b-824122af651d
 
 ## Conclusions
 
-The proposed system meets all project requirements and supports ergonomic operation within the RH Facility.
+The proposed system meets all project requirements and supports ergonomic operations within the RH Facility.
 Potential improvements include:
 
 - Positioning the toolbox on a mobile support.
