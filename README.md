@@ -13,7 +13,7 @@ Finally, **ergonomic analyses** were carried out using the Jack software.
 
 ## Table of Contents
 1. [Introduction and Requirements](#introduction-and-requirements)
-2. [Modeling](#modeling)
+2. [Modelling](#modelling)
 3. [Finite Element Analysis (FEM)](#finite-element-analysis-fem)
 4. [Kinematic Simulations](#kinematic-simulations)
 5. [Ergonomics](#ergonomics)
@@ -48,36 +48,36 @@ The main objective of this project is to design a virtual prototype of an auxili
 </p>
 
 
-## Modeling
+## Modelling
 
 The proposed system comprises three main components:
 
-1. **Robot Manipulator:** A 6-degree-of-freedom robot capable of reaching all modules. Modeled on the KUKA KR 340 R3330, which can lift up to 340 kg, slightly more than required.
+1. **Robot Manipulator:** A 6-degree-of-freedom robot capable of reaching all modules. Modelled on the KUKA KR 340 R3330, which can lift up to 340 kg, slightly more than required.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/73842f84-379e-4cbd-ba23-781f9c412d30" alt="Pseudocode" width="500"/>
 </p>
 
-Modeled parts:
+Modelled parts:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e90eb86e-2082-4d6e-8c9f-6cb6e8da1f04" alt="Pseudocode" width="500"/>
 </p>
 
 
-2. **Elevator:** Capable of lifting the robot and supporting its weight. Modeled on the Advance Lifts Model P-8036 Scissors Lift, which can handle up to 3628 kg with a platform size of 1219.2 x 1828.8 mm.
+2. **Elevator:** Capable of lifting the robot and supporting its weight. Modelled on the Advance Lifts Model P-8036 Scissors Lift, which can handle up to 3628 kg with a platform size of 1219.2 x 1828.8 mm.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b5374b72-876a-4472-9d8e-517f62b18f02" alt="Pseudocode" width="500"/>
 </p>
 
-Modeled parts:
+Modelled parts:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c9dc9e5c-2f5b-4d70-a614-9bc79eeb7b25" alt="Pseudocode" width="500"/>
 </p>
 
 
 
-3. **Cart on Wheels:** Supports the combined weight of the elevator and robot, modeled on the basis of the Morello Omni, which is omnidirectional and customizable with a maximum load capacity of 10,000 kg.
+3. **Cart on Wheels:** Supports the combined weight of the elevator and robot, modelled on the basis of the Morello Omni, which is omnidirectional and customizable with a maximum load capacity of 10,000 kg.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/db67a13d-5a4b-48df-a022-1ac73a42a946" alt="Pseudocode" width="500"/>
@@ -89,7 +89,7 @@ Modelled parts:
 </p>
 
 
-### Modeling Approach
+### Modelling Approach
 
 A bottom-up approach was used to model and assemble the components. Specific attention was given to:
 
