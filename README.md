@@ -16,7 +16,7 @@ Finally, **ergonomic analyses** were carried out using the Jack software.
 2. [Modelling](#modelling)
 3. [FEM Analysis](#fem-analysis)
 4. [Kinematic Simulations](#kinematic-simulations)
-5. [Ergonomics](#ergonomics)
+5. [Ergonomic Analysis](#ergonomic-analysis)
 6. [Conclusions](#conclusions)
 
 ## Introduction and Requirements
@@ -150,7 +150,7 @@ https://github.com/user-attachments/assets/330d7cbb-c8ab-43d0-ab35-5cfcbeb00a12
 
 
 
-## Ergonomics
+## Ergonomic Analysis
 
 Ergonomic analyses were performed using Jack software, considering a 50th percentile male (175 cm height, 80 kg weight).
 Two critical positions were analyzed: reaching the highest and lowest First Wall modules.
