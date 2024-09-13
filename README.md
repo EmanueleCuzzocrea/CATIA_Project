@@ -2,9 +2,7 @@
 
 ## Overview
 This project involves the virtual prototyping of an auxiliary equipment system designed to assist RH Facility operators in handling mockups
-of First Wall modules. The complete project assignment can be find in the Project_Assignment.pdf file.
-
-The entire project was developed in **CATIA**, and a modular solution was proposed, in which each component is actually available on the market.
+of First Wall modules. The complete project assignment can be find in the Project_Assignment.pdf file. The entire project was developed in **CATIA**, and a modular solution was proposed, in which each component is actually available on the market.
 Specifically, the proposal includes using a **KUKA KR 340 R3330 manipulator** for the movement of modules, positioned above a scissor lift,
 the **P-8036 Scissors Lift by Advance Lifts**, in order to reach properly also the modules on the top. To make the entire structure mobile, we propose to put the system on an omnidirectional cart, namely a **Morello Omni**.
 Additionally, a walkway, a ladder, and a toolbox have been designed to allow the operator ergonomic access to the RH Facility and easy access to all modules.
