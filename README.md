@@ -51,23 +51,28 @@ The proposed system comprises three main components:
 
 1. **Robot Manipulator:** A 6-degree-of-freedom robot capable of reaching all modules. Modeled on the KUKA KR 340 R3330, which can lift up to 340 kg, slightly more than required.
 
-![image](https://github.com/user-attachments/assets/1980f691-06cd-47b4-86e0-bf2fc89da1d3)
+![image](https://github.com/user-attachments/assets/73842f84-379e-4cbd-ba23-781f9c412d30)
 
-![image](https://github.com/user-attachments/assets/b44047bf-eb05-4daf-8815-5198e87aaf31)
+Modeled parts:
+![image](https://github.com/user-attachments/assets/e90eb86e-2082-4d6e-8c9f-6cb6e8da1f04)
 
 
 2. **Elevator:** Capable of lifting the robot and supporting its weight. Modeled on the Advance Lifts Model P-8036 Scissors Lift, which can handle up to 3628 kg with a platform size of 1219.2 x 1828.8 mm.
 
-![image](https://github.com/user-attachments/assets/aba7ab41-85de-4c2b-9606-abb48302b1fa)
+![image](https://github.com/user-attachments/assets/b5374b72-876a-4472-9d8e-517f62b18f02)
 
-![image](https://github.com/user-attachments/assets/ea8c42a9-0baf-42b5-9fa4-5d916c72d5cc)
+Modeled parts:
+![image](https://github.com/user-attachments/assets/c9dc9e5c-2f5b-4d70-a614-9bc79eeb7b25)
+
 
 
 3. **Cart on Wheels:** Supports the combined weight of the elevator and robot, modeled on the basis of the Morello Omni, which is omnidirectional and customizable with a maximum load capacity of 10,000 kg.
 
-![image](https://github.com/user-attachments/assets/37378fbe-138f-49d4-83b3-50caf9393018)
+![image](https://github.com/user-attachments/assets/db67a13d-5a4b-48df-a022-1ac73a42a946)
 
-![image](https://github.com/user-attachments/assets/c44a74e5-268d-4a6e-8b16-d5ac6b6f2b5e)
+Modelled parts:
+![image](https://github.com/user-attachments/assets/785ed5f3-ce3b-4d30-9c55-55cea844d0d4)
+
 
 
 ### Modeling Approach
@@ -83,8 +88,16 @@ https://github.com/user-attachments/assets/69a11f03-2794-437f-baa0-9c7851dea66f
 
 
 - **Anti-Tipping Measures:** Placement of two 1500 kg counterweights to prevent tipping, especially when the robot is fully extended.
+
+![image](https://github.com/user-attachments/assets/eeaab0a1-4c14-4971-ab7e-d1930312c546)
+
+
 - **End Effector:** Fitted with pneumatic suction cups tailored to handle the various shapes and sizes of the First Wall modules.
 
+![image](https://github.com/user-attachments/assets/33c320eb-fad4-4c8a-b83f-96a56bfd2bc9)
+
+### Complete system
+![image](https://github.com/user-attachments/assets/809a3a04-7d35-4253-aa97-e0c2867b36a6)
 
 
 
