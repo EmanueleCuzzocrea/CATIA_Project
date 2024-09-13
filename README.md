@@ -40,11 +40,11 @@ The main objective of this project is to design a virtual prototype of an auxili
 - Minimize costs by renting standard products without the need for damage or modification.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c9735269-3060-4aa5-8beb-9f9447a68a47" alt="Pseudocode" width="400"/>
+  <img src="https://github.com/user-attachments/assets/c9735269-3060-4aa5-8beb-9f9447a68a47" alt="Pseudocode" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/507d115b-ec13-443e-bebb-169f8730479d" alt="Pseudocode" width="400"/>
+  <img src="https://github.com/user-attachments/assets/507d115b-ec13-443e-bebb-169f8730479d" alt="Pseudocode" width="500"/>
 </p>
 
 
@@ -55,24 +55,24 @@ The proposed system comprises three main components:
 1. **Robot Manipulator:** A 6-degree-of-freedom robot capable of reaching all modules. Modeled on the KUKA KR 340 R3330, which can lift up to 340 kg, slightly more than required.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73842f84-379e-4cbd-ba23-781f9c412d30" alt="Pseudocode" width="400"/>
+  <img src="https://github.com/user-attachments/assets/73842f84-379e-4cbd-ba23-781f9c412d30" alt="Pseudocode" width="500"/>
 </p>
 
 Modeled parts:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e90eb86e-2082-4d6e-8c9f-6cb6e8da1f04" alt="Pseudocode" width="400"/>
+  <img src="https://github.com/user-attachments/assets/e90eb86e-2082-4d6e-8c9f-6cb6e8da1f04" alt="Pseudocode" width="500"/>
 </p>
 
 
 2. **Elevator:** Capable of lifting the robot and supporting its weight. Modeled on the Advance Lifts Model P-8036 Scissors Lift, which can handle up to 3628 kg with a platform size of 1219.2 x 1828.8 mm.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b5374b72-876a-4472-9d8e-517f62b18f02" alt="Pseudocode" width="400"/>
+  <img src="https://github.com/user-attachments/assets/b5374b72-876a-4472-9d8e-517f62b18f02" alt="Pseudocode" width="500"/>
 </p>
 
 Modeled parts:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c9dc9e5c-2f5b-4d70-a614-9bc79eeb7b25" alt="Pseudocode" width="400"/>
+  <img src="https://github.com/user-attachments/assets/c9dc9e5c-2f5b-4d70-a614-9bc79eeb7b25" alt="Pseudocode" width="500"/>
 </p>
 
 
@@ -80,12 +80,12 @@ Modeled parts:
 3. **Cart on Wheels:** Supports the combined weight of the elevator and robot, modeled on the basis of the Morello Omni, which is omnidirectional and customizable with a maximum load capacity of 10,000 kg.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/db67a13d-5a4b-48df-a022-1ac73a42a946" alt="Pseudocode" width="400"/>
+  <img src="https://github.com/user-attachments/assets/db67a13d-5a4b-48df-a022-1ac73a42a946" alt="Pseudocode" width="500"/>
 </p>
 
 Modelled parts:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/785ed5f3-ce3b-4d30-9c55-55cea844d0d4" alt="Pseudocode" width="400"/>
+  <img src="https://github.com/user-attachments/assets/785ed5f3-ce3b-4d30-9c55-55cea844d0d4" alt="Pseudocode" width="500"/>
 </p>
 
 
@@ -129,9 +129,8 @@ FEM analyses were conducted to simulate the structural behavior of the system un
 - **Von Mises Stress Analysis:** Conducted for the robot, elevator, and cart to ensure stresses remain within permissible limits.
 - **Displacements:** Maximum displacements were observed at the robot's end effector and the upper part of the elevator, but were within acceptable limits.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e1390ad-d564-4294-ad82-e94da16edb2d" alt="Pseudocode" width="400"/>
+  <img src="https://github.com/user-attachments/assets/36df0155-fedf-403a-9281-00680a1f228d" alt="Pseudocode" width="400"/>
 </p>
-<img width="266" alt="fem" src="https://github.com/user-attachments/assets/36df0155-fedf-403a-9281-00680a1f228d">
 
 
 ## Kinematic Simulations
@@ -140,16 +139,12 @@ The Robot-Elevator-Omni system's kinematic simulations demonstrated its ability 
 This confirmed the system's capability to address all proximity requirements without critical issues.
 
 ### Reaching the Outboard First Wall modules
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4e1390ad-d564-4294-ad82-e94da16edb2d" alt="Pseudocode" width="400"/>
-</p>
+
 https://github.com/user-attachments/assets/82420123-4555-4154-9b7c-5b4642edca78
 
 
 ### Reaching the Outboard First Wall modules
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4e1390ad-d564-4294-ad82-e94da16edb2d" alt="Pseudocode" width="400"/>
-</p>
+
 https://github.com/user-attachments/assets/330d7cbb-c8ab-43d0-ab35-5cfcbeb00a12
 
 
@@ -165,15 +160,11 @@ Two critical positions were analyzed: reaching the highest and lowest First Wall
 Both scenarios were well below the critical value of 3400 N, indicating ergonomic safety.
 
 ### Assembly of the highest module
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4e1390ad-d564-4294-ad82-e94da16edb2d" alt="Pseudocode" width="400"/>
-</p>
+
 https://github.com/user-attachments/assets/5153eb2f-c06c-4937-942b-21ac58786129
 
 ### Assembly of the lowest module
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4e1390ad-d564-4294-ad82-e94da16edb2d" alt="Pseudocode" width="400"/>
-</p>
+
 https://github.com/user-attachments/assets/63562921-bda9-480b-934b-824122af651d
 
 
