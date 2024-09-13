@@ -158,3 +158,6 @@ Potential improvements include:
 - Adjusting the height of the walkway.
 - Refining the end effector dimensions.
 - Implementing an emergency program.
+
+
+Thank you!
