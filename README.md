@@ -144,7 +144,7 @@ This confirmed the system's capability to address all requirements without criti
 https://github.com/user-attachments/assets/82420123-4555-4154-9b7c-5b4642edca78
 
 
-### Reaching the Outboard First Wall modules
+### Reaching the Inboard First Wall modules
 
 https://github.com/user-attachments/assets/330d7cbb-c8ab-43d0-ab35-5cfcbeb00a12
 
